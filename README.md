@@ -6,7 +6,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Öncelikle projeyi clonelayın.
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/ademircibt/kodluyoruzilkrepo.git
 ```
 
 ## Usage
